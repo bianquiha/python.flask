@@ -19,6 +19,11 @@ pip install pytest
 pip install pytest-flask
 ```
 
+ou se houver reuqriments.txt
+```
+pip install -r requeriments.txt
+```
+
 - Salva a lista de pacotes instalados no arquivo requirements.txt
 ```
 pip freeze > requiremnts.txt

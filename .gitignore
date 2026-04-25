@@ -1,0 +1,12 @@
+# Ambiente Virtual Python
+venv/
+
+# Banco de Dados
+data/alunos.db
+
+# Cache do python
+__pycache__/
+*.pyc
+
+# Configurações do VS Code
+.vscode/
